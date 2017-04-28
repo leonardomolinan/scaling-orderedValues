@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462215363 source:c:\users\leonardo\documents\ufu\3 semestre\aed 2\exercicios\aed2 funcoe aplicadas a vetor decrescente\functions2.c
+	"structs2.h"
+
+1462216514 c:\users\leonardo\documents\ufu\3 semestre\aed 2\exercicios\aed2 funcoe aplicadas a vetor decrescente\structs2.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1462216491 source:c:\users\leonardo\documents\ufu\3 semestre\aed 2\exercicios\aed2 funcoe aplicadas a vetor decrescente\main.c
+	"structs2.h"
+
